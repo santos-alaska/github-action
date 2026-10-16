@@ -290,7 +290,7 @@ public class App {
     <h1>DevOps<br><em>Tools</em><br>Reference</h1>
     <p class="hero-desc">
         A quick-access reference to the most widely used tools across the DevOps lifecycle —
-        from source control to monitoring.
+        from source control to monitoring. and test
     </p>
 </section>
 
